@@ -11,52 +11,21 @@ L’application s’appuie sur les services **Microsoft Azure** pour la collecte
 
 ## 🖼️ Slides de la présentation
 
-### 🩷 Slide 1 – Contexte du projet
 ![Slide 1 – Contexte](/images/slide1.png)
-
-### 💡 Slide 2 – Objectifs du POC IA
 ![Slide 2 – Objectifs](/images/slide2.png)
-
-### 💼 Slide 3 – Valeur ajoutée de l’IA
 ![Slide 3 – Valeur ajoutée](/images/slide3.png)
-
-### 🧠 Slide 4 – Architecture technique globale
 ![Slide 4 – Architecture](/images/slide4.png)
-
-### ☁️ Slide 5 – Mapping des services Azure
 ![Slide 5 – Azure Services](/images/slide5.png)
-
-### 👥 Slide 6 – Rôles & responsabilités des profils Data
 ![Slide 6 – Profils Data](/images/slide6.png)
-
-### 🧩 Slide 7 – Données et jeux de données utilisés
 ![Slide 7 – Données](/images/slide7.png)
-
-### ⚙️ Slide 8 – Approches Machine Learning proposées
 ![Slide 8 – Approches ML](/images/slide8.png)
-
-### 📊 Slide 9 – Métriques & critères de succès
 ![Slide 9 – Métriques](/images/slide9.png)
-
-### 🗓️ Slide 10 – Timeline POC & Staffing
 ![Slide 10 – Timeline](/images/slide10.png)
-
-### 💰 Slide 11 – Coûts Ressources Humaines
 ![Slide 11 – Coûts RH](/images/slide11.png)
-
-### ☁️ Slide 12 – Coûts Azure & ROI
 ![Slide 12 – Coûts Azure & ROI](/images/slide12.png)
-
-### 🔐 Slide 13 – Principes RGPD & Risques
 ![Slide 13 – RGPD Principes](/images/slide13.png)
-
-### 🛡️ Slide 14 – Mesures de sécurité & Privacy by Design
 ![Slide 14 – Sécurité](/images/slide14.png)
-
-### ⚠️ Slide 15 – Risques & Plans de mitigation
 ![Slide 15 – Risques](/images/slide15.png)
-
-### 🧭 Slide 16 – Next Steps & Gouvernance
 ![Slide 16 – Next Steps](/images/slide16.png)
 
 ---
