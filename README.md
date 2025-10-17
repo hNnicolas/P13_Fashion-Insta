@@ -102,7 +102,7 @@ L’application s’appuie sur les services **Microsoft Azure** pour la collecte
 | Rôle | Nom / Fonction |
 |------|----------------|
 | **VP Product / Sponsor** | Alicia |
-| **Chef de projet IA** | [Ton nom] |
+| **Chef de projet IA** | Nicolas HUANG |
 | **Data Scientist** | Équipe IA Fashion-Insta |
 | **Data Engineer** | Équipe Data Platform |
 | **MLOps Engineer** | Équipe DevOps & ML |
@@ -142,3 +142,4 @@ Toute reproduction ou réutilisation doit être autorisée par le département *
 ---
 
 © 2025 – **Fashion-Insta, Data & IA Team**
+
