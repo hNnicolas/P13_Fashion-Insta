@@ -106,9 +106,9 @@ Ce projet est une initiative interne de **Fashion-Insta**.
 Toute reproduction ou réutilisation doit être autorisée par le département **Data & IA**.  
 
 📂 Dossier images : `/images/slide1.png` → `/images/slide16.png`  
-📅 Dernière mise à jour : **Octobre 2025**  
 
 ---
 
 © 2025 – **Fashion-Insta, Data & IA Team**
+
 
